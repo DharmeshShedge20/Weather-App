@@ -1,0 +1,28 @@
+
+body {
+
+  .card {
+    background-color: rgba(255, 255, 255, 0.2);
+    /* Adjust the last value (0.5) to change the opacity */
+  }
+
+  background-image: url('/Background.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 60vh;
+  /* 60% of the viewport height */
+}
+
+.navbar {
+  background-color: rgba(255, 255, 255, 0.2);
+  /* Adjust the last value (0.5) to change the opacity */
+}
+
+.form-control {
+  background-color: rgba(255, 255, 255, 0.2);
+  /* Adjust the alpha value to change transparency */
+  color: #000;
+  /* Set text color */
+}
+
+
